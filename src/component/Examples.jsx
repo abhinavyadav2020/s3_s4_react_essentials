@@ -28,6 +28,7 @@ export default function Examples() {
     );
   }
 
+  
   return (
     <Sections title="Examples" id="examples">
       <Tabs
